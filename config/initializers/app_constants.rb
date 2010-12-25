@@ -1,0 +1,6 @@
+APP_ID = "155215807859641"
+APP_SECRET = "5a35808983da0ded6cfd055527968f8e"
+GRAPH_URL = "https://graph.facebook.com/"
+OAUTH_AUTHORIZE_URL = GRAPH_URL + "oauth/authorize"
+OAUTH_TOKEN_URL = GRAPH_URL + "oauth/access_token"
+APP_URL = "http://apps.facebook.com/slapist/"
